@@ -2,7 +2,9 @@
 
 PROGRAMA EN JAVA QUE AL PRESIONAR UN BOTÓN PUEDA INSERTAR UNA IMAGEN DE FONDO A UN JLABEL
 
-##Explicación de código fuente
+
+Explicación de código fuente
+
 
 El siguiente programa como su nombre lo dice que se insertará una imagen de fondo al presionar un botón, para este ejercicio, el programa fue hecho en el entorno de programación (IDE) de NetBeans, asimismo para su compilación y ejecución se utilizó la interfaz que ya trae incorporado este programa.
 A continuación, se presenta el código en donde se importan las librerías necesarias para poder utilizar algunas clases que se implementaron en este programa.
@@ -54,7 +56,8 @@ Eso es todo el código fuente del primer programa, ahora veremos la ejecución d
 Ejecución del programa 1
 
 
-	Cuando le damos en la opción de compilar y ejecutar en NetBeans nos mostrará la siguiente ventana y en su interior podremos ver un botón con el nombre” Imagen”, por el momento no se muestra la imagen porque con un click que le haremos al botón es cuando mostrará la imagen.
+
+Cuando le damos en la opción de compilar y ejecutar en NetBeans nos mostrará la siguiente ventana y en su interior podremos ver un botón con el nombre” Imagen”, por el momento no se muestra la imagen porque con un click que le haremos al botón es cuando mostrará la imagen.
 
 ![imagen](https://user-images.githubusercontent.com/71055467/108906764-db78ff80-75e6-11eb-8b29-7e75d27305c1.png)
 
@@ -62,6 +65,4 @@ Ahora si le hacemos click en el botón, vemos como nos aparece la imagen siguien
 
 
 ![imagen](https://user-images.githubusercontent.com/71055467/108906801-e7fd5800-75e6-11eb-95e1-ff56150f7730.png)
-
-
 
